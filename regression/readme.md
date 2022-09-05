@@ -1,0 +1,22 @@
+## Machine Learning Course 
+
+- course is divided into 4 parts
+   - part zero
+       - Data preprocessing
+   - supervised learning (60%)
+       - regression
+       - classification
+       - metrics
+          - accuracy
+          - underfit
+          - overfit
+          - cross validation
+          - grid search
+   - unsupervied learning (20%)
+      - clustring
+      - recommendation systems
+      - dimensionality reduction
+   - reinforcement learning (5%)
+   - Deep learning (15%)
+      - neural networks
+      - convolution neural network       
