@@ -47,3 +47,5 @@ if btn:
     pred = model.predict(xinput)
     st.markdown('# have diabetes' if pred[0] == 0 else '# not diabetes')
     
+    # cd streamlit run app.py
+    # streamlit run app.py
