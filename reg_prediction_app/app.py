@@ -49,3 +49,10 @@ if btn:
     
     # cd streamlit run app.py
     # streamlit run app.py
+
+
+
+
+
+
+    # create conda -n ml python=3.9 streamlit
